@@ -1,4 +1,4 @@
-fanction hyoji(){
+function hyoji(){
  //表示する文字
 var str="イタリア";
 //テキストボックスの文字数
